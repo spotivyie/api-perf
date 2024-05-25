@@ -1,25 +1,25 @@
 {
   "perfumes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Perfume Good Girl Feminino Eau De Parfum Carolina Herrera 150ml",
       "image": "https://acdn.mitiendanube.com/stores/001/487/363/products/carolina-herrera-carolina-herrera-good-girl-legere-edp-80ml-01-1000x10001-b74e3a409d85789e0a16304591351693-640-0.webp",
       "price": 390.00
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Perfume Good Girl Feminino Eau De Parfum Carolina Herrera 150ml",
       "image": "https://acdn.mitiendanube.com/stores/001/487/363/products/carolina-herrera-carolina-herrera-good-girl-legere-edp-80ml-01-1000x10001-b74e3a409d85789e0a16304591351693-640-0.webp",
       "price": 390.00
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Perfume Good Girl Feminino Eau De Parfum Carolina Herrera 150ml",
       "image": "https://acdn.mitiendanube.com/stores/001/487/363/products/carolina-herrera-carolina-herrera-good-girl-legere-edp-80ml-01-1000x10001-b74e3a409d85789e0a16304591351693-640-0.webp",
       "price": 390.00
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Perfume Good Girl Feminino Eau De Parfum Carolina Herrera 150ml",
       "image": "https://acdn.mitiendanube.com/stores/001/487/363/products/carolina-herrera-carolina-herrera-good-girl-legere-edp-80ml-01-1000x10001-b74e3a409d85789e0a16304591351693-640-0.webp",
       "price": 390.00
