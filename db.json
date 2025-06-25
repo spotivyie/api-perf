@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "name": "Good Girl Eau de Parfum",
+    "image": "https://acdn.mitiendanube.com/stores/001/487/363/products/carolina-herrera-carolina-herrera-good-girl-legere-edp-80ml-01-1000x10001-b74e3a409d85789e0a16304591351693-640-0.webp",
+    "price": 390.00,
+    "category": "Perfume Feminino",
+    "description": "Perfume feminino icônico da Carolina Herrera.",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Dior Sauvage Eau de Toilette",
+    "image": "https://dior.scene7.com/is/image/Beauty/000_Dior_Sauvage_Eau_de_Toilette?$jpg_large$",
+    "price": 450.00,
+    "category": "Perfume Masculino",
+    "description": "A fragrância masculina intensa e fresca da Dior.",
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "CK One Unissex Eau de Toilette",
+    "image": "https://cdn.dooca.store/1579/products/ck-one-unissex-100ml.jpg?v=1678551865&webp=0",
+    "price": 260.00,
+    "category": "Perfume Unissex",
+    "description": "Fragrância leve e compartilhável da Calvin Klein.",
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Kit Presenteável Natura Essencial",
+    "image": "https://cdn.dooca.store/1996/products/presente-natura-essencial-1054-2.jpg?v=1681229972",
+    "price": 310.00,
+    "category": "Kit Presenteável",
+    "description": "Um presente completo com perfume, sabonete e loção.",
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "La Vie Est Belle Feminino Eau de Parfum",
+    "image": "https://lancome.scene7.com/is/image/lancome/3614273268412_La_Vie_Est_Belle_Eau_De_Parfum_75ml?$ProductMain$",
+    "price": 430.00,
+    "category": "Perfume Feminino",
+    "description": "Fragrância floral adocicada da Lancôme.",
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Bleu de Chanel Masculino Eau de Parfum",
+    "image": "https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_620/bleu-de-chanel-eau-de-parfum-spray-1-7fl-oz--packshot-default-107360.jpg",
+    "price": 520.00,
+    "category": "Perfume Masculino",
+    "description": "Elegância e modernidade em forma de perfume.",
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Maison Margiela Replica Jazz Club",
+    "image": "https://www.sephora.com/productimages/sku/s1706182-main-zoom.jpg",
+    "price": 595.00,
+    "category": "Perfume Unissex",
+    "description": "Fragrância amadeirada e quente para todos os gêneros.",
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Kit O Boticário Malbec Completo",
+    "image": "https://cdn.dooca.store/287/products/kit-malbec-presenteavel.jpg?v=1681320786",
+    "price": 290.00,
+    "category": "Kit Presenteável",
+    "description": "Inclui perfume, balm pós-barba e desodorante.",
+    "inStock": true
+  },
+  {
+    "id": "9",
+    "name": "212 VIP Rosé Eau de Parfum",
+    "image": "https://carolinaherrera.scene7.com/is/image/PWP/10008120_1?wid=480&hei=640",
+    "price": 350.00,
+    "category": "Perfume Feminino",
+    "description": "Fragrância festiva e elegante da Carolina Herrera.",
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "name": "Paco Rabanne Invictus",
+    "image": "https://images.pacorabanne.com/is/image/PacoRabanne/3349668588111_1?$2up_dp$",
+    "price": 420.00,
+    "category": "Perfume Masculino",
+    "description": "Perfume com aroma vencedor e esportivo.",
+    "inStock": true
+  },
+  {
+    "id": "11",
+    "name": "Tom Ford Black Orchid Unissex",
+    "image": "https://m.media-amazon.com/images/I/51Oi-GfnP5L._AC_SL1000_.jpg",
+    "price": 650.00,
+    "category": "Perfume Unissex",
+    "description": "Fragrância sofisticada e sensual da Tom Ford.",
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "name": "Kit Egeo Dolce Boticário",
+    "image": "https://cdn.dooca.store/287/products/kit-presenteavel-egeo-dolce.jpg?v=1681324567",
+    "price": 240.00,
+    "category": "Kit Presenteável",
+    "description": "Conjunto com perfume, loção e sabonete perfumado.",
+    "inStock": true
+  },
+  {
+    "id": "13",
+    "name": "J’adore Dior Eau de Parfum",
+    "image": "https://www.sephora.com/productimages/sku/s1057241-main-zoom.jpg",
+    "price": 470.00,
+    "category": "Perfume Feminino",
+    "description": "Clássico e luxuoso, símbolo de feminilidade.",
+    "inStock": true
+  },
+  {
+    "id": "14",
+    "name": "Azzaro Wanted by Night",
+    "image": "https://www.azzaro.com/sites/default/files/styles/product_zoom/public/2021-03/azzaro_wanted_by_night_edp_1.png",
+    "price": 389.00,
+    "category": "Perfume Masculino",
+    "description": "Perfume noturno, marcante e misterioso.",
+    "inStock": true
+  },
+  {
+    "id": "15",
+    "name": "Jo Malone Wood Sage & Sea Salt",
+    "image": "https://m.media-amazon.com/images/I/61ChbbWbRML._AC_SL1500_.jpg",
+    "price": 580.00,
+    "category": "Perfume Unissex",
+    "description": "Aroma leve, marinho e natural para todos.",
+    "inStock": true
+  },
+  {
+    "id": "16",
+    "name": "Kit Lily O Boticário",
+    "image": "https://cdn.dooca.store/287/products/kit-lily-boticario.jpg?v=1681327771",
+    "price": 350.00,
+    "category": "Kit Presenteável",
+    "description": "Kit presenteável com toque floral intenso.",
+    "inStock": true
+  }
+]
