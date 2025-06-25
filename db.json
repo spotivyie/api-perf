@@ -30,7 +30,7 @@
     {
       "id": "4",
       "name": "Kit Presenteável Natura Essencial",
-      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwa5f13104/produto-joia/background/mobile/187156.jpg",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw25084a4a/NATBRA-187156_1.jpg",
       "price": 310.0,
       "category": "presentes",
       "description": "Um kit presenteável ideal para surpreender. Inclui perfume sofisticado, sabonete perfumado e loção corporal, perfeito para oferecer cuidado, carinho e elegância em uma única embalagem.",
@@ -65,8 +65,8 @@
     },
     {
       "id": "8",
-      "name": "Kit O Boticário Malbec Completo",
-      "image": "https://cdn.dooca.store/287/products/kit-malbec-presenteavel.jpg?v=1681320786",
+      "name": "Kit Natura Humor Próprio",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwe768f15f/NATBRA-184880_1.jpg",
       "price": 290.0,
       "category": "presentes",
       "description": "Presente completo e refinado para o homem moderno. Inclui perfume Malbec, balm pós-barba e desodorante, ideal para cuidar de si com elegância e praticidade.",
@@ -102,7 +102,7 @@
     {
       "id": "12",
       "name": "Kit Egeo Dolce Boticário",
-      "image": "https://cdn.dooca.store/287/products/kit-presenteavel-egeo-dolce.jpg?v=1681324567",
+      "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/dpr_2.0/v1/imagens/product/B85300/0b9055dd-a7c9-4552-b8d4-1db6d452b959-bot-85300-kit-dia-do-amor-egeo-dolce-01.jpg",
       "price": 240.0,
       "category": "presentes",
       "description": "Presente perfeito para quem ama fragrâncias doces. O kit traz perfume, loção e sabonete com toque gourmand, ideal para surpreender com doçura e delicadeza.",
@@ -138,7 +138,7 @@
     {
       "id": "16",
       "name": "Kit Lily O Boticário",
-      "image": "https://cdn.dooca.store/287/products/kit-lily-boticario.jpg?v=1681327771",
+      "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/dpr_2.0/v1/imagens/product/B2024050720/55d883ba-8982-4637-8954-158e9fb70ad1-bot-2024050720-lily-creme-acetinado-creme-maos-colonia.jpg",
       "price": 350.0,
       "category": "presentes",
       "description": "Kit especial com perfume e cuidados corporais. Com notas florais intensas e femininas, é ideal para presentear com elegância, carinho e sofisticação.",
