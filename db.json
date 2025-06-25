@@ -12,7 +12,7 @@
     {
       "id": "2",
       "name": "Dior Sauvage Eau de Toilette",
-      "image": "https://dior.scene7.com/is/image/Beauty/000_Dior_Sauvage_Eau_de_Toilette?$jpg_large$",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/672420-450-450/sauvage-eau-de-toilette-dior-perfume-masculino-20-1-.jpg.jpg?v=638633210014330000",
       "price": 450.0,
       "category": "masculinos",
       "description": "A fragrância masculina intensa e fresca da Dior.",
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "name": "CK One Unissex Eau de Toilette",
+      "name": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/403640-450-450/ck-one-eau-de-toilette-calvin-klein-perfume-unissex-50ml--1-.jpg?v=637363122430900000",
       "image": "https://cdn.dooca.store/1579/products/ck-one-unissex-100ml.jpg?v=1678551865&webp=0",
       "price": 260.0,
       "category": "unissex",
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "name": "La Vie Est Belle Feminino Eau de Parfum",
-      "image": "https://lancome.scene7.com/is/image/lancome/3614273268412_La_Vie_Est_Belle_Eau_De_Parfum_75ml?$ProductMain$",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/814076-450-450/la-vie-est-belle-50ml.jpg?v=638785991869700000",
       "price": 430.0,
       "category": "femininos",
       "description": "Fragrância floral adocicada da Lancôme.",
@@ -48,7 +48,7 @@
     {
       "id": "6",
       "name": "Bleu de Chanel Masculino Eau de Parfum",
-      "image": "https://www.chanel.com/images/q_auto,f_auto,fl_lossy,dpr_auto/w_620/bleu-de-chanel-eau-de-parfum-spray-1-7fl-oz--packshot-default-107360.jpg",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/672513-450-450/sauvage-eau-de-parfum--dior-perfume-masculino-20-4-.jpg.jpg?v=638633220188400000",
       "price": 520.0,
       "category": "masculinos",
       "description": "Elegância e modernidade em forma de perfume.",
@@ -56,8 +56,8 @@
     },
     {
       "id": "7",
-      "name": "Maison Margiela Replica Jazz Club",
-      "image": "https://www.sephora.com/productimages/sku/s1706182-main-zoom.jpg",
+      "name": "Yves Saint Laurent Eau de Parfum",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/814402-450-450/3614273852814.jpg?v=638786126803270000",
       "price": 595.0,
       "category": "unissex",
       "description": "Fragrância amadeirada e quente para todos os gêneros.",
@@ -75,7 +75,7 @@
     {
       "id": "9",
       "name": "212 VIP Rosé Eau de Parfum",
-      "image": "https://carolinaherrera.scene7.com/is/image/PWP/10008120_1?wid=480&hei=640",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/515116-450-450/212-VIP-Rose-Carolina-Herrera---Perfume-Feminino---Eau-de-Parfum-30ml--1-.jpg?v=638017223482400000",
       "price": 350.0,
       "category": "femininos",
       "description": "Fragrância festiva e elegante da Carolina Herrera.",
@@ -84,7 +84,7 @@
     {
       "id": "10",
       "name": "Paco Rabanne Invictus",
-      "image": "https://images.pacorabanne.com/is/image/PacoRabanne/3349668588111_1?$2up_dp$",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/192156-450-450/invictus-eau-de-toilette-paco-rabanne-perfume-masculino.jpg?v=635729819014900000",
       "price": 420.0,
       "category": "masculinos",
       "description": "Perfume com aroma vencedor e esportivo.",
@@ -93,7 +93,7 @@
     {
       "id": "11",
       "name": "Tom Ford Black Orchid Unissex",
-      "image": "https://m.media-amazon.com/images/I/51Oi-GfnP5L._AC_SL1000_.jpg",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/370040-450-450/888066000079.jpg?v=637159899920670000",
       "price": 650.0,
       "category": "unissex",
       "description": "Fragrância sofisticada e sensual da Tom Ford.",
@@ -111,7 +111,7 @@
     {
       "id": "13",
       "name": "J’adore Dior Eau de Parfum",
-      "image": "https://www.sephora.com/productimages/sku/s1057241-main-zoom.jpg",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/822392-450-450/1.-3348901738200-3348900417892.jpg.jpg?v=638793968911400000",
       "price": 470.0,
       "category": "femininos",
       "description": "Clássico e luxuoso, símbolo de feminilidade.",
@@ -120,7 +120,7 @@
     {
       "id": "14",
       "name": "Azzaro Wanted by Night",
-      "image": "https://www.azzaro.com/sites/default/files/styles/product_zoom/public/2021-03/azzaro_wanted_by_night_edp_1.png",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/726676-450-450/3614273521345.01.jpg?v=638719407189430000",
       "price": 389.0,
       "category": "masculinos",
       "description": "Perfume noturno, marcante e misterioso.",
@@ -129,7 +129,7 @@
     {
       "id": "15",
       "name": "Jo Malone Wood Sage & Sea Salt",
-      "image": "https://m.media-amazon.com/images/I/61ChbbWbRML._AC_SL1500_.jpg",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/545993-450-450/english-pear-e-freesia-cologne-jo-malone-perfume-unissex.jpg?v=638176195546430000",
       "price": 580.0,
       "category": "unissex",
       "description": "Aroma leve, marinho e natural para todos.",
