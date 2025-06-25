@@ -29,11 +29,11 @@
     },
     {
       "id": "4",
-      "name": "Kit Presenteável Natura Essencial",
-      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw25084a4a/NATBRA-187156_1.jpg",
-      "price": 310.0,
-      "category": "presentes",
-      "description": "Um kit presenteável ideal para surpreender. Inclui perfume sofisticado, sabonete perfumado e loção corporal, perfeito para oferecer cuidado, carinho e elegância em uma única embalagem.",
+      "name": "J’adore Dior Eau de Parfum",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/822392-450-450/1.-3348901738200-3348900417892.jpg.jpg?v=638793968911400000",
+      "price": 470.0,
+      "category": "femininos",
+      "description": "Perfume feminino clássico e sofisticado. Reúne notas florais intensas em uma fragrância que simboliza luxo, feminilidade e delicadeza. Ideal para mulheres elegantes e apaixonadas por tradição.",
       "inStock": true
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "id": "8",
-      "name": "Kit Natura Humor Próprio",
-      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwe768f15f/NATBRA-184880_1.jpg",
-      "price": 290.0,
-      "category": "presentes",
-      "description": "Presente completo e refinado para o homem moderno. Inclui perfume Malbec, balm pós-barba e desodorante, ideal para cuidar de si com elegância e praticidade.",
+      "name": "Azzaro Wanted by Night",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/726676-450-450/3614273521345.01.jpg?v=638719407189430000",
+      "price": 389.0,
+      "category": "masculinos",
+      "description": "Perfume masculino intenso e noturno. Combinando especiarias, madeira e sensualidade, é ideal para homens ousados que gostam de marcar presença durante a noite.",
       "inStock": true
     },
     {
@@ -101,38 +101,38 @@
     },
     {
       "id": "12",
-      "name": "Kit Egeo Dolce Boticário",
-      "image": "https://m.media-amazon.com/images/I/71mH1aS19oL._AC_SX679_.jpg",
-      "price": 240.0,
-      "category": "presentes",
-      "description": "Presente perfeito para quem ama fragrâncias doces. O kit traz perfume, loção e sabonete com toque gourmand, ideal para surpreender com doçura e delicadeza.",
-      "inStock": true
-    },
-    {
-      "id": "13",
-      "name": "J’adore Dior Eau de Parfum",
-      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/822392-450-450/1.-3348901738200-3348900417892.jpg.jpg?v=638793968911400000",
-      "price": 470.0,
-      "category": "femininos",
-      "description": "Perfume feminino clássico e sofisticado. Reúne notas florais intensas em uma fragrância que simboliza luxo, feminilidade e delicadeza. Ideal para mulheres elegantes e apaixonadas por tradição.",
-      "inStock": true
-    },
-    {
-      "id": "14",
-      "name": "Azzaro Wanted by Night",
-      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/726676-450-450/3614273521345.01.jpg?v=638719407189430000",
-      "price": 389.0,
-      "category": "masculinos",
-      "description": "Perfume masculino intenso e noturno. Combinando especiarias, madeira e sensualidade, é ideal para homens ousados que gostam de marcar presença durante a noite.",
-      "inStock": true
-    },
-    {
-      "id": "15",
       "name": "Jo Malone Wood Sage & Sea Salt",
       "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/545993-450-450/english-pear-e-freesia-cologne-jo-malone-perfume-unissex.jpg?v=638176195546430000",
       "price": 580.0,
       "category": "unissex",
       "description": "Fragrância unissex leve, natural e revigorante. Inspirada pela brisa marinha e toques amadeirados, transmite sensação de liberdade e frescor. Ideal para quem aprecia perfumes delicados e sofisticados.",
+      "inStock": true
+    },
+    {
+      "id": "13",
+      "name": "Kit Presenteável Natura Essencial",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw25084a4a/NATBRA-187156_1.jpg",
+      "price": 310.0,
+      "category": "presentes",
+      "description": "Um kit presenteável ideal para surpreender. Inclui perfume sofisticado, sabonete perfumado e loção corporal, perfeito para oferecer cuidado, carinho e elegância em uma única embalagem.",
+      "inStock": true
+    },
+    {
+      "id": "14",
+      "name": "Kit Natura Humor Próprio",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwe768f15f/NATBRA-184880_1.jpg",
+      "price": 290.0,
+      "category": "presentes",
+      "description": "Presente completo e refinado para o homem moderno. Inclui perfume Malbec, balm pós-barba e desodorante, ideal para cuidar de si com elegância e praticidade.",
+      "inStock": true
+    },
+    {
+      "id": "15",
+      "name": "Kit Egeo Dolce Boticário",
+      "image": "https://m.media-amazon.com/images/I/71mH1aS19oL._AC_SX679_.jpg",
+      "price": 240.0,
+      "category": "presentes",
+      "description": "Presente perfeito para quem ama fragrâncias doces. O kit traz perfume, loção e sabonete com toque gourmand, ideal para surpreender com doçura e delicadeza.",
       "inStock": true
     },
     {
